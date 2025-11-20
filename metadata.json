@@ -1,0 +1,5 @@
+{
+  "name": "Nexus: Autonomous Reasoning Agent",
+  "description": "A self-directed, goal-oriented agentic system featuring a metacognitive loop for identifying knowledge gaps and an Erbingham-style control interface for tuning cognitive parameters.",
+  "requestFramePermissions": []
+}
